@@ -90,8 +90,6 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 ---
 
-For inquiries or support, please contact [Through Mail @Click Here](mailto:goswami.rituraj03@gmail.com).
-
 ---
 
 **Project Status:**
