@@ -35,7 +35,7 @@ The Real-Time Document Editor is a web-based application that enables real-time 
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/real-time-document-editor.git
+   git clone https://github.com/soumyadeepdutta7/Editing-Application.git
    ```
 
 2. Navigate to the project directory:
@@ -89,14 +89,6 @@ Contributions are welcome! If you would like to contribute to this project, plea
 - [React Hot Toast](https://github.com/timolins/react-hot-toast) for toast notifications.
 
 ---
-
-**Author:**
-
-[Rituraj Goswami](https://github.com/Xta1neR)
-
----
-
-**Contact:**
 
 For inquiries or support, please contact [Through Mail @Click Here](mailto:goswami.rituraj03@gmail.com).
 
